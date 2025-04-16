@@ -100,3 +100,8 @@ The dashboard was created by importing relevant pivot charts covering two main a
 4. Ensure Year-Round Stock Availability:
 	The procurement team should prioritize consistent inventory management to avoid stockouts of accessories and clothing, ensuring sales remain steady throughout the year.
 	Investigate the 2014–2015 sales gap to identify and resolve any supply chain or data recording issues.
+
+
+### End Notes
+
+Please check the excel file to see the dataset and the dashboard. Thank you... #gideonaleji #omnilytix #datascience #dataanalytics
